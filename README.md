@@ -11,6 +11,7 @@ Our purpose is to detect ocean pollution. It is key to know whether the current 
 Make an application that detects, visualizes, tracks and forecasts ocean plastic amounts. There are methods to detect objects on the ground however, it is very challenging to detect the ocean one.
 
 # Service
+![image](https://github.com/user-attachments/assets/6cf6cfe2-95e5-4f3d-84c4-e2aad0504c60)
 
 ![The platform is provided free to all supporters.  Information include density , regions, and data range of ocean debris .](2022-10-05_21h41_15.png)
 
