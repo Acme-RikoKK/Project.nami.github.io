@@ -13,14 +13,13 @@ Make an application that detects, visualizes, tracks and forecasts ocean plastic
 # Service
 ![image](https://github.com/user-attachments/assets/6cf6cfe2-95e5-4f3d-84c4-e2aad0504c60)
 
-![The platform is provided free to all supporters.  Information include density , regions, and data range of ocean debris .](2022-10-05_21h41_15.png)
 
 The platform is provided free to all supporters.  Information include density , regions, and data range of ocean debris .
 
 A ocean debris tracking data can help us determine if modern recycling systems are optimal.
 If we consistently see large amounts of plastics in a particular area, we need to re-evaluate the recycling system in that area.
 
-[https://youtu.be/gDyj5m6iHJQ](https://youtu.be/gDyj5m6iHJQ)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gDyj5m6iHJQ?si=sdtG1DB4dDd91917" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **Why detecting is important** 
 
